@@ -5,8 +5,8 @@
 #
 # NAME:         pdflinks
 # VERSION:      2.0.0
-# AUTHOR:       Originally by Glutanimate (2013), modernized 2026
-# LICENSE:      GNU GPL v2
+# AUTHOR:       Léon "Avic" Simmons (originally by Glutanimate, 2013)
+# LICENSE:      MIT License
 # REPOSITORY:   https://github.com/Avicennasis/pdflinks
 #
 # DESCRIPTION:  Extracts PDF links from any webpage and optionally downloads
@@ -117,7 +117,7 @@ ${BOLD}OUTPUT:${NC}
     When downloading, files are saved to the specified directory.
 
 ${BOLD}LICENSE:${NC}
-    GNU GPL v2 - https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+    MIT License - see LICENSE file for details
 
 EOF
 }

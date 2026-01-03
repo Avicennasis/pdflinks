@@ -2,7 +2,7 @@
 
 A modern command-line tool to extract PDF links from webpages.
 
-![License: GPL v2](https://img.shields.io/badge/License-GPLv2-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Bash](https://img.shields.io/badge/Bash-4.0%2B-green.svg)
 
 ## Features
@@ -87,7 +87,7 @@ https://example.com/documents/specs.pdf
 
 ## History
 
-- **v2.0.0** (2026) - Complete rewrite with modern bash practices
+- **v2.0.0** (2026) - Complete rewrite by Léon "Avic" Simmons
   - Replaced lynx with curl
   - Added colored output and progress indicators
   - Added download functionality with `--download` flag
@@ -99,7 +99,7 @@ https://example.com/documents/specs.pdf
 
 ## License
 
-GNU General Public License v2.0 - see [LICENSE](LICENSE) for details.
+MIT License - see [LICENSE](LICENSE) for details.
 
 ## Contributing
 
